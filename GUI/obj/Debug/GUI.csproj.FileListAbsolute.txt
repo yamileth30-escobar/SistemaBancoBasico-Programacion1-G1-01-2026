@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\GUI\bin\Debug\GUI.exe.config
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\GUI\bin\Debug\GUI.exe
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\GUI\bin\Debug\GUI.pdb
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\GUI\obj\Debug\GUI.exe
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\GUI\obj\Debug\GUI.pdb
