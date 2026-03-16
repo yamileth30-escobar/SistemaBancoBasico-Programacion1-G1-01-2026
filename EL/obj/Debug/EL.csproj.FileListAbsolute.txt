@@ -1,0 +1,6 @@
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\EL\bin\Debug\EL.dll
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\EL\bin\Debug\EL.pdb
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\EL\obj\Debug\EL.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\EL\obj\Debug\EL.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\EL\obj\Debug\EL.dll
+C:\Users\MINEDUCYT\source\repos\SistemaBancoBasico-Programacion1-G1-01-2026\EL\obj\Debug\EL.pdb
